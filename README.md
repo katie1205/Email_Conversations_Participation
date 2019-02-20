@@ -6,6 +6,7 @@ The goal of this project was to summarize email activity of individuals in a ser
 ## Objectives
 The objectives were met through answering the following questions:
  + What is the total number of conversations in which each individual participated?
- + how many times that person appeared in the “From”, “To”, “CC”, and “BCC” columns, respectively?
- + whether that person ever appeared in a conversation that was marked as highly important.
+ + how many times that person appeared in the “From”, “To”, “CC”, and “BCC” columns, respecxtively?
+ + Which individuals have appeared in conversations marked as highly important?
+ 
  
