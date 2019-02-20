@@ -1,12 +1,11 @@
 # Email Correspondences
 
-## Context:
-Academic - I completed this project as an assignment for an MSDA computer science course.
+## Problem Description
+The goal of this project was to summarize email activity of individuals in a series of email conversations. This entailed careful cleaning, sorting, and aggregating of email conversations in an email archive contained in csv file. Each record (row) represented a conversation. For each of these conversations, information was included about the subjects, recipients, and level of importance.
 
-## Problem:
-The goal of this project was to summarize email activity of individuals in a series of email conversations. This entailed cleaning and summarizing a filtered email archive containing the subjects, recipients, and importance of email conversations. 
-
-you need to find out how many conversations that person was involved in, how many
-times that person appeared in the “From”, “To”, “CC”, and “BCC” columns,
-respectively. And whether that person ever appeared in a conversation that was
-marked as highly important.
+## Objectives
+The objectives were met through answering the following questions:
+ + What is the total number of conversations in which each individual participated?
+ + how many times that person appeared in the “From”, “To”, “CC”, and “BCC” columns, respectively?
+ + whether that person ever appeared in a conversation that was marked as highly important.
+ 
